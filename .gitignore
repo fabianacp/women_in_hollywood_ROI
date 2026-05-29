@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Frontend
+node_modules/
+frontend/dist/
+
+# OS
+.DS_Store
+
+# Claude Code
+SKILLS.md

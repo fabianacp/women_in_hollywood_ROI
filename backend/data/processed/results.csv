@@ -1,0 +1,37 @@
+budget_m,year,actress,genre,source,role,title,roi_actual,roi_predicted,residual,worldwide_gross_m
+160.0,2019,Zendaya,Action,IP,Supporting,Spider-Man: Far From Home,7.069999999999999,5.21,1.86,1131.9
+250.0,2012,Anne Hathaway,Action,IP,Supporting,The Dark Knight Rises,4.34,4.34,-0.0,1084.4
+35.0,2015,Anne Hathaway,Comedy,Original,Lead,The Intern,5.56,2.35,3.21,194.5
+28.0,2015,Sandra Bullock,Drama,Original,Lead,Our Brand Is Crisis,0.26,6.1,-5.84,7.2
+200.0,2014,Emma Stone,Action,IP,Lead,The Amazing Spider-Man 2,3.54,3.39,0.15,709.0
+25.0,2011,Emma Stone,Drama,Adaptation,Lead,The Help,8.66,5.21,3.45,216.6
+30.0,1994,Sandra Bullock,Action,Original,Lead,Speed,11.680000000000001,7.94,3.74,350.4
+40.0,2006,Scarlett Johansson,Thriller,Original,Supporting,The Prestige,2.74,3.49,-0.75,109.7
+40.0,2014,Charlize Theron,Comedy,Original,Lead,A Million Ways to Die in the West,2.17,2.56,-0.39,86.8
+62.0,2005,Charlize Theron,Action,Adaptation,Lead,Aeon Flux,0.84,3.1,-2.26,52.3
+90.0,2004,Nicole Kidman,Comedy,Adaptation,Lead,The Stepford Wives,1.13,1.56,-0.43,102.0
+225.0,2013,Cate Blanchett,Fantasy,Adaptation,Supporting,The Hobbit: The Desolation of Smaug,4.26,4.36,-0.1,958.4
+11.0,2017,Margot Robbie,Biopic,Original,Lead,I Tonya,4.9,2.15,2.75,53.9
+100.0,2006,Nicole Kidman,Animation,Original,Voice,Happy Feet,3.8400000000000003,1.66,2.18,384.3
+125.0,2014,Jennifer Lawrence,Action,Adaptation,Lead,The Hunger Games: Mockingjay Part 1,6.039999999999999,4.86,1.18,755.4
+84.0,2020,Margot Robbie,Action,IP,Lead,Birds of Prey,2.4,2.93,-0.53,201.9
+200.0,2021,Scarlett Johansson,Action,IP,Lead,Black Widow,1.9,2.29,-0.39,379.8
+94.0,2002,Cate Blanchett,Fantasy,Adaptation,Supporting,The Lord of the Rings: The Two Towers,10.039999999999997,7.5,2.54,944.0
+8.0,2018,Margot Robbie,Thriller,Original,Lead,Terminal,0.11000000000000001,3.8,-3.69,0.9
+110.0,2022,Margot Robbie,Drama,Original,Lead,Babylon,0.58,2.09,-1.51,64.0
+90.0,2022,Sandra Bullock,Action,Adaptation,Supporting,Bullet Train,2.66,3.46,-0.8,239.3
+100.0,2021,Emma Stone,Comedy,IP,Lead,Cruella,2.33,2.32,0.01,233.2
+25.0,2023,Sydney Sweeney,Romance,Original,Lead,Anyone But You,8.779999999999998,1.69,7.09,219.5
+3.5,2011,Demi Moore,Drama,Original,Supporting,Margin Call,5.57,7.38,-1.81,19.5
+80.0,2005,Sandra Bullock,Comedy,IP,Lead,Miss Congeniality 2,1.27,3.89,-2.62,101.4
+200.0,2021,Charlize Theron,Action,IP,Supporting,F9: The Fast Saga,3.6299999999999994,1.91,1.72,726.2
+175.0,2017,Zendaya,Action,IP,Supporting,Spider-Man: Homecoming,5.03,6.11,-1.08,880.2
+23.0,2013,Scarlett Johansson,Sci-Fi,Original,Voice,Her,2.1,6.09,-3.99,48.3
+20.0,2024,Nicole Kidman,Thriller,Original,Lead,Babygirl,1.5,0.69,0.81,30.0
+79.0,2003,Nicole Kidman,Drama,Adaptation,Lead,Cold Mountain,2.19,3.28,-1.09,173.0
+180.0,2012,Cate Blanchett,Fantasy,Adaptation,Supporting,The Hobbit: An Unexpected Journey,5.670000000000001,4.61,1.06,1021.0
+160.0,2011,Jennifer Lawrence,Action,IP,Supporting,X-Men: First Class,2.21,4.95,-2.74,353.6
+170.0,2016,Anne Hathaway,Fantasy,Adaptation,Lead,Alice Through the Looking Glass,1.76,3.8,-2.04,299.1
+75.0,2008,Angelina Jolie,Action,Adaptation,Lead,Wanted,4.550000000000001,3.23,1.32,341.4
+200.0,2014,Jennifer Lawrence,Action,IP,Supporting,X-Men: Days of Future Past,3.73,4.49,-0.76,746.0
+185.0,2019,Angelina Jolie,Fantasy,IP,Lead,Maleficent: Mistress of Evil,2.66,2.8,-0.14,491.7

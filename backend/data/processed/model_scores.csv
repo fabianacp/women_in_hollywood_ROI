@@ -1,0 +1,6 @@
+model,cv_mae,cv_r2
+Gradient Boosting,0.6469,0.0769
+CatBoost,0.6554,0.0441
+XGBoost,0.6572,0.0443
+Random Forest,0.6671,0.0157
+Linear Regression,0.7369,-0.0984

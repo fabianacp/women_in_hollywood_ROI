@@ -1,0 +1,9 @@
+studio,type,annual_revenue_m,annual_sga_m,sga_pct_revenue,est_pa_pct_production_budget,films_per_year,avg_production_budget_m,source_notes
+Disney,Major,88898,15336,17.2,50-100,15,150,SEC 10-K FY2023 — SG&A covers parks/streaming/TV not film only
+Paramount,Major,29652,7398,24.9,50-80,12,80,SEC 10-K FY2023 — most film-transparent of major studios
+Warner Bros Discovery,Major,41321,9696,23.5,60-100,15,130,SEC 10-K FY2023 — includes HBO/streaming
+Comcast (Universal),Major,121572,47161,38.8,50-90,12,120,SEC 10-K FY2023 — SG&A dominated by cable/broadband
+Sony Pictures,Major,87000,22000,25.3,50-80,12,90,Sony Group Annual Report FY2023 — estimated film segment
+A24,Indie,500,150,30.0,15-25,20,25,Private — valuation $2.5-3B (2021) — 18-20 films/year estimated
+Lionsgate,Indie,3700,900,24.3,20-40,15,40,Lionsgate Annual Report FY2023 — Hunger Games studio
+Neon,Indie,120,35,29.2,10-20,8,15,Private — estimated from trade reporting

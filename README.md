@@ -6,6 +6,33 @@ Built at **NOD Coding Stockholm**.
 
 ---
 
+## Screenshots
+
+### Tab 1 — Hero
+![Hero](women_hollywood_Tab_1_A.png)
+
+### Tab 2 — Actress ROI Cards
+![Actress Cards A](women_hollywood_Tab_2_A.png)
+![Actress Cards B](women_hollywood_Tab_2_B.png)
+![Actress Cards C](women_hollywood_Tab_2_C.png)
+
+### Tab 3 — $5M Investment Calculator
+![Investment Calc A](women_hollywood_Tab_3_A.png)
+![Investment Calc B](women_hollywood_Tab_3_B.png)
+
+### Tab 4 — 3D Budget / Gross / ROI Chart
+![3D Scatter](women_hollywood_Tab_4_A.png)
+
+### Tab 5 — The Hidden Data Argument
+![Hidden Data A](women_hollywood_Tab_5_A.png)
+![Hidden Data B](women_hollywood_Tab_5_B.png)
+![Hidden Data C](women_hollywood_Tab_5_C.png)
+
+### Tab 6 — Model Scores
+![Model Scores](women_hollywood_Tab_6_A.png)
+
+---
+
 ## The Thesis
 
 Hollywood producers routinely claim that casting women as leads is a financial risk. This project uses real box office data, SEC financial filings, and machine learning to dismantle that argument across three layers:
